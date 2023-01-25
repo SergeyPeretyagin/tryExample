@@ -1,6 +1,6 @@
 appName:
   name: super
-
+  
   server:
     port: 1111
   HttpGet:
@@ -10,9 +10,6 @@ appName:
     readiness:
       seconds: 3
       initial: 6
-
-
-
-
-
+    liveness:
+      seconds: 34
 
