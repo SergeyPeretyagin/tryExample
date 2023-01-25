@@ -1,2 +1,6 @@
 appName:
   name: super
+
+  deployment:
+    readiness:
+      seconds: 22
