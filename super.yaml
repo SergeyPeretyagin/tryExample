@@ -4,3 +4,6 @@ appName:
   deployment:
     readiness:
       seconds: 22
+    liveness:
+      seconds: 3
+
