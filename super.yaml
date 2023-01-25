@@ -1,2 +1,6 @@
 appName:
   name: super
+
+  deployment:
+    liveness:
+      seconds: 3
