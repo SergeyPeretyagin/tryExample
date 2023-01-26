@@ -2,7 +2,7 @@ appName:
   name: super, puper
   
   server:
-    port: 1111
+    port: 1111, 2222
   HttpGet:
     path: health/actuator
 
