@@ -1,5 +1,5 @@
 appName:
-  name: super
+  name: super, puper
   
   server:
     port: 1111
